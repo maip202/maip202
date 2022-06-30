@@ -1,7 +1,7 @@
 <h1 align="center">Hello! , I am Miguel (maip202)</h1>
 <h3 align="center">A fullstack dev from Madrid (Spain)</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/maip202](https://github.com/maip202)
+- 👨‍💻 All of my projects are available at [https://github.com/maip202?tab=repositories](https://github.com/maip202?tab=repositories)
 
 - 📫 How to reach me **maip202@gmail.com**
 
